@@ -1,65 +1,81 @@
-# 👋 Hi, I'm Pavlo!
-
-## 🚀 About Me
-**Mobile Developer | Graphic Designer | 19 y.o.**
-
-I'm a beginner mobile developer from Ukraine, passionate about creating modern Android applications and beautiful user interfaces.
-
-📱 Focused on Android Development  
-🎨 Creating UI/UX designs  
-🇺🇦 Based in Ukraine
-
----
-
-## 💻 Programming Languages
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## 🛠️ Technologies & Tools
-
-**Mobile Development:**
-- Android Studio
-- Jetpack Compose
-
-**Design:**
-- Adobe Photoshop
-- Figma
-- Adobe XD
-
----
-
-## 📊 GitHub Stats
+<div align="center">
+ <h1>👋🏻 Hello! My name is Pavlo!</h1>
+</div>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1schevchuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+ <img width="1280" height="720" alt="baner1" src="https://github.com/user-attachments/assets/7b9309b7-b139-412a-af08-d4272c1dab25" />
 </p>
+
+
+
+# 👨🏻‍💻About me:
+👤 I am a novice mobile developer.
+🇺🇦 I am originally from Ukraine.
+📲 I write mobile applications for the Android platform.
+🥷🏻 I am currently 19 years old.
+🧑🏻‍🏫 I am in my third year at university, majoring in Information Systems and Technologies.
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1schevchuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="1280" height="720" alt="baner2" src="https://github.com/user-attachments/assets/5cd14414-8856-4147-b818-afa9e18554e2" />
 </p>
 
----
+## Language:
 
-## 🔥 GitHub Streak
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Mobile Development:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+## 🖌Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1schevchuk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="1280" height="198" alt="baner3" src="https://github.com/user-attachments/assets/0b8fddff-e845-4ff0-9621-81b119426366" />
 </p>
 
----
+# 📫 Connect with Me
 
-## 📫 Connect with Me
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/schevchukk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-postnyy-22a72a344)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1murenay)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavloshevchukk53@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1schevchuk)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/1schevchuk)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@schevchukk)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavloshevchuk53@gmail.com)
 
----
+# 💻 Language Proficiency
+<p align="center">
+<img width="1592" height="360" alt="banerrrrr" src="https://github.com/user-attachments/assets/6e456aea-73fa-4378-ae29-beb82fd44118" />
+</p>
 
-💡 *"Building mobile experiences, one line of code at a time"*
+### Languages
+```text
+Kotlin      ████████████████████░
+Java        ████████████░░░░░░░░░
+SQL         ████████░░░░░░░░░░░░░
+```
 
-⭐️ Feel free to explore my repositories and don't forget to star if you like them!
+
+
+### Skills Level
+🟢 **Advanced:** Kotlin  
+🟡 **Intermediate:** Java  
+🟠 **Learning:** SQL
+
+</td>
+</tr>
+</table>
+
+
+<p align="center">
+<img width="729" height="72" alt="final baner" src="https://github.com/user-attachments/assets/37887df3-5833-40d9-b647-3e51cd12ddf4" />
+</p>
+
+
