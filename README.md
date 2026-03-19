@@ -55,19 +55,9 @@
 <img width="1592" height="360" alt="banerrrrr" src="https://github.com/user-attachments/assets/6e456aea-73fa-4378-ae29-beb82fd44118" />
 </p>
 
-### Languages
-```text
-Kotlin      ████████████████████░
-Java        ████████████░░░░░░░░░
-SQL         ████████░░░░░░░░░░░░░
-```
 
 
 
-### Skills Level
-🟢 **Advanced:** Kotlin  
-🟡 **Intermediate:** Java  
-🟠 **Learning:** SQL
 
 </td>
 </tr>
