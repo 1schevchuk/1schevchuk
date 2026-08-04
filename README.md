@@ -13,7 +13,7 @@
 👤 I am a novice mobile developer.
 🇺🇦 I am originally from Ukraine.
 📲 I write mobile applications for the Android platform.
-🥷🏻 I am currently 19 years old.
+🥷🏻 I am currently 20 years old.
 🧑🏻‍🏫 I am in my third year at university, majoring in Information Systems and Technologies.
 
 
@@ -36,25 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-<p align="center">
-<img width="1280" height="198" alt="baner3" src="https://github.com/user-attachments/assets/0b8fddff-e845-4ff0-9621-81b119426366" />
-</p>
-
-# 📫 Connect with Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/schevchukk)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-postnyy-22a72a344)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shevcukjpqlkw)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavloshevchukk53@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1schevchuk)
-
-
-# 💻 Language Proficiency
-<p align="center">
-<img width="1592" height="360" alt="banerrrrr" src="https://github.com/user-attachments/assets/6e456aea-73fa-4378-ae29-beb82fd44118" />
-</p>
-
 
 
 
